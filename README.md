@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Alihuseyn Baghirov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+Node+%7C+NestJS+%7C+Mongo+%7C+PostgreSQL;Learning+Cloud+and+AI;Open+to+internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+Node+%7C+NestJS+%7C+Mongo+%7C+PostgreSQL;Open+to+internships+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 🎓 I'm a 3rd year IT student at ADAU, heading into my final year.
 - 💻 I build full-stack web apps using **Vue.js, Node.js, Express, NestJS** and databases like **MongoDB, MySQL, PostgreSQL**.
 - 🚀 Currently working on: `RapidQuizzer` — an interactive exam platform with NestJS.
-- 🌱 Learning more about: **Cloud Platforms** & **AI Engineering**.
 - 📍 Open to **internship opportunities in the digital/tech field** (especially Summer 2025).
   
 ---
