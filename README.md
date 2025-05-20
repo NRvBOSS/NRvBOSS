@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Alihuseyn Baghirov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+Node+%7C+NestJS+%7C+Mongo+%7C+PostgreSQL;Open+to+internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+Node+%7C+NestJS+%7C+Mongo+%7C+PostgreSQL;" alt="Typing SVG" />
 </p>
 
 ---
