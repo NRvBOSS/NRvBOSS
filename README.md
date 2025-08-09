@@ -8,10 +8,10 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm a 3rd year IT student at ASAU, heading into my final year.
+- 🎓 I'm a 4th year IT student at ASAU.
 - 💻 I build full-stack web apps using **Vue.js, Node.js, Express, NestJS** and databases like **MongoDB, MySQL, PostgreSQL**.
-- 🚀 Currently working on: `RapidQuizzer` — an interactive exam platform with NestJS.
-- 📍 Open to **internship opportunities in the digital/tech field** (especially Summer 2025).
+- 🚀 Currently working on: `Asan-Period` — an automatic activity allocation system with Express(but demo).
+- 📍 Open to **internship opportunities in the digital/tech field**.
   
 ---
 
