@@ -10,7 +10,7 @@
 
 - 🎓 I'm a 4th year IT student at ASAU.
 - 💻 I build full-stack web apps using **Vue.js, Node.js, Express, NestJS** and databases like **MongoDB, MySQL, PostgreSQL**.
-- 🚀 Currently working on: `Asan-Period` — an automatic activity allocation system with Express(but demo).
+- 🚀 Currently working on: `iCLI` — an automatic activity allocation system with Express(but demo).
 - 📍 Open to **internship opportunities in the digital/tech field**.
   
 ---
@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
 ---
