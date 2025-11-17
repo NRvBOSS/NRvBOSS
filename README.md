@@ -10,7 +10,7 @@
 
 - 🎓 I'm a 4th year IT student at ASAU.
 - 💻 I build full-stack web apps using **Vue.js, Node.js, Express, NestJS** and databases like **MongoDB, MySQL, PostgreSQL**.
-- 🚀 Currently working on: `iCLI` — an automatic activity allocation system with Express(but demo).
+- 🚀 Currently working on: `hCLI`, my personal CLI for generating framework templates.
 - 📍 Open to **internship opportunities in the digital/tech field**.
   
 ---
