@@ -10,7 +10,7 @@
 
 - 🎓 I'm a 4th year IT student at ASAU.
 - 💻 I build full-stack web apps using **Vue.js, Node.js, Express, NestJS** and databases like **MongoDB, MySQL, PostgreSQL**.
-- 🚀 Currently working on: `hCLI`, my personal CLI for generating framework templates.
+- 🚀 Currently working on: `E-Less Agent`, my personal Agent for read logs and give answer from LLM Model.
 - 📍 Open to **internship opportunities in the digital/tech field**.
   
 ---
